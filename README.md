@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @britishperson10
-- 👀 I’m interested in computer science or sumn idk
-- 🌱 I’m currently learning C++ and some Java
-- 📫 How to reach me email me at britishperson10@protonmail.com 
+Joseph
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=britishperson10)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 britishperson10/britishperson10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
